@@ -38,5 +38,7 @@ npm search webpack
 	```
 
 
-
+## 一般环境
+- 通过WebStorm创建空项目
+- 参照webpack例子[link](http://webpack.github.io/docs/tutorials/getting-started/)
 
